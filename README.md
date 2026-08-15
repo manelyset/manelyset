@@ -3,6 +3,7 @@
 I'm a Ruby on Rails Backend Developer with 5+ years of experience.
 
 🖥️ Ruby, Ruby on Rails | PostgreSQL, Redis | RSpec | Sidekiq | REST API, MVC, GraphQL
+
 🏝️ Currently working in travel tech
 
 ### 📫 Contact
