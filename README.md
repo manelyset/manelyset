@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-I'm a Ruby on Rails Backend Developer with 5+ years of experience.
+I'm a Ruby on Rails Backend Developer with 4+ years of experience and knowledge of other frameworks.
 
-🖥️ Ruby, Ruby on Rails | PostgreSQL, Redis | RSpec | Sidekiq | REST API, MVC, GraphQL
+🖥️ Ruby, Ruby on Rails | PostgreSQL, Redis | RSpec | Sidekiq | REST API, MVC, GraphQL | Docker
+💻 Extra: Python + FastAPI | Java + Spring
 
 🏝️ Currently working in travel tech
 
