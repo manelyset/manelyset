@@ -3,6 +3,7 @@
 I'm a Ruby on Rails & FastAPI Backend Developer with 4+ years of experience and knowledge of other frameworks.
 
 🖥️ Ruby, Ruby on Rails | FastAPI | PostgreSQL, Redis | RSpec | Pytest | Sidekiq | REST API, MVC, GraphQL | Docker
+
 💻 Extra: Java + Spring
 
 🏝️ Currently working in travel tech
